@@ -150,3 +150,11 @@
   <li><strong>GitHub:</strong> <a href="https://github.com/MdAshikur-Rahman-Ashik" target="_blank">MdAshikur-Rahman-Ashik</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/md-ashikur-rahman-ashik-560b00185" target="_blank">Md. Ashikur Rahman Ashik</a></li>
 </ul>
+
+![coreapi1](https://github.com/user-attachments/assets/2c46aa79-26e9-4124-b158-363dd7e7a52d)
+![coreapi2](https://github.com/user-attachments/assets/2b011d79-67a4-4340-b439-b6d092c9fead)
+![coreapi3](https://github.com/user-attachments/assets/cd91eed0-949d-4f37-b062-be88dd7f7f8e)
+![coreapi4](https://github.com/user-attachments/assets/a488c1db-fefe-40d2-9e75-6e1dc93de3a4)
+![coreapi-5](https://github.com/user-attachments/assets/2392e6ba-033e-415c-8982-fc7153003a91)
+![coreapi-6](https://github.com/user-attachments/assets/383e0612-480b-4684-93c3-c05ab449fe9c)
+
