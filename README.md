@@ -39,6 +39,16 @@
   <li><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">SQL Server</a></li>
 </ul>
 
+<h3>🔧 Required NuGet Packages</h3>
+<p>Make sure to install the following NuGet packages:</p>
+<ul>
+  <li><code>Microsoft.AspNetCore.Authentication.JwtBearer</code> </li>
+  <li><code>Microsoft.EntityFrameworkCore</code> </li>
+  <li><code>Microsoft.EntityFrameworkCore.SqlServer</code></li>
+  <li><code>Microsoft.EntityFrameworkCore.Tools</code> </li>
+  <li><code>Newtonsoft.Json</code> </li>
+</ul>
+
 <h3>🔧 Steps to Run</h3>
 <ol>
   <li>Clone the repository by running the following command in your terminal:</li>
@@ -46,7 +56,7 @@
   <li>Set up the connection string in the <code>appsettings.json</code> file to connect to your SQL Server instance.</li>
   <li>Run Entity Framework Core migrations to create the database schema:</li>
   <ul>
-    <li>Open the **Package Manager Console** in Visual Studio.</li>
+    <li>Open the <strong>Package Manager Console</strong> in Visual Studio.</li>
     <li>Run the following commands:</li>
     <pre><code>
     Add-Migration InitialCreate
