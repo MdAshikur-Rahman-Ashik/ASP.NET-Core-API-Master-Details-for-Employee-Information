@@ -42,7 +42,7 @@
 <h3>🔧 Steps to Run</h3>
 <ol>
   <li>Clone the repository by running the following command in your terminal:</li>
-  <pre><code>https://github.com/MdAshikur-Rahman-Ashik/ASP.Net_CoreApi_MasterDetails</code></pre>
+  <pre><code>https://github.com/MdAshikur-Rahman-Ashik/ASP.NET-Core-API-Master-Details-for-Employee-Information</code></pre>
   <li>Set up the connection string in the <code>appsettings.json</code> file to connect to your SQL Server instance.</li>
   <li>Run Entity Framework Core migrations to create the database schema:</li>
   <ul>
